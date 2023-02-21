@@ -4,6 +4,13 @@ A single-page text editor application that runs in the browser and uses a packag
 
 ---
 
+##  **Deployed Link**
+
+https://pwa-text-editorx.herokuapp.com/
+
+---
+
+
 ## **Table of contents**
 
   - [Installation](#installation)
@@ -41,7 +48,8 @@ $ npm run start
 ---
 
 ## **Technologies Used**
-* [**IndexedDB API**](https://web.dev/indexeddb/)
+
+* [IndexedDB API](https://web.dev/indexeddb/)
 * [idb](https://www.npmjs.com/package/idb)
 * [Webpack](https://webpack.js.org/)
 
